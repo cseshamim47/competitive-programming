@@ -1,0 +1,15 @@
+DDL - Data Defination Language
+
+1. Create
+2. Alter
+3. Drop
+4. Rename
+5. Truncate
+
+Create 
+-------
+CREATE DATABASE database_name;
+CREATE TABLE student(
+    id int(2),
+    name varchar(30)
+);

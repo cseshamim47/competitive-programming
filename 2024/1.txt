@@ -1,0 +1,103 @@
+DP -> 3
+Segment Tree -> 3
+DP on trees -> 3
+Comibinatorics -> 3
+
+
+trigonometry -> 2
+geometry -> 2
+DSU -> 2
+chinese remainder theorem -> 2
+2d prefix sum -> 2
+longest increasing subsequence -> 2 
+Mo's Algo -> 2
+
+logarithm -> 1
+sqrt decomposition -> 1
+induction -> 1
+Lucas theorem -> 1
+Mobius Inversion -> 1
+stirling number of second kind->1
+stirling number of first kind->1
+linear algebra -> 1
+Small to Large Merging technique -> 1
+Boruvka Algorithm -> 1
+
+june - 
+trigonometry-DP-CF-Uva
+DS-CF-sqrt decom-LOJ random
+trigonometry-DP-CF-Uva
+DS-CF-Number Theory-Loj Random
+
+
+
+DP -> 10
+SegTree -> 
+Num Theory -> 
+
+https://toph.co/p/quarantined-with-circles
+
+
+interview is based on 
+    problem solving, 
+OOP, 
+database concepts, 
+sql query, 
+Software design principles and patterns (SOLID, Singleton etc.), 
+REST API basics
+
+
+Analytical
+Mathematical
+API’s
+    Database
+Data Structure
+OOP
+Algorithm
+    Design Pattern
+    Networking
+Programming
+General Knowledge 
+some other exciting areas
+
+
+
+https://chatgpt.com/share/e2631c10-426a-433a-882d-a06da3199331
+
+https://chatgpt.com/share/8bdc72fa-9848-4e47-af2c-a7d0fbde60e7
+
+
+
+
+struct node
+{
+    int cost,vertex;
+    node(){}
+	node(int cost,int vertex) {this->cost = cost; this->vertex = vertex;}
+
+	bool operator < (const node &n) const {return cost > n.cost;}
+};
+
+
+https://www.youtube.com/watch?v=jprqiJVPEpk&list=PL6W0cZIZmfjPfp6l8CpAuWMLyVIYcjill&index=1
+
+
+
+1) Linked List : ***
+
+    Generate a linked list from given array ***
+    Reverse a linked list ***
+    Merge two sorted linked list without using auxiliary space ***
+Detecting a linked list if it is circular in O(n) time. **
+    Remove Duplicates from Sorted List ***
+
+
+    What is DBMS and RDBMS? ***
+    DDL (Data Definition Language) *** - c a d r t
+DML (Data Manipulation Language) ***
+DCL (Data Control Language) ***
+TCL (Transaction Control Language) ***
+What is meant by ACID properties in DBMS? ***
+Join ( Left, Right, Full outer, Inner ) ***
+Keys ( Primary key, Foreign Key, Composite key, Unique Key ) ***
+Practice SQL queries in Hackerrank : https://www.hackerrank.com/domains/sql ***
